@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Español C1</title>
+  <meta name="description" content="Vocabulario, gramática, cultura, actualidad y DELE C1. Sin juegos, sin rachas.">
+  <meta name="theme-color" content="#f6f3ee" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#16181b" media="(prefers-color-scheme: dark)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Español C1">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <h1 id="title">Español C1</h1>
+    <div class="top-actions">
+      <button class="ghost" data-go="apuntar">Apuntar</button>
+      <button class="ghost" data-go="ajustes" aria-label="Ajustes">Ajustes</button>
+    </div>
+  </header>
+
+  <main id="view" tabindex="-1"></main>
+
+  <nav class="tabs" aria-label="Secciones">
+    <button data-go="vocab">Vocabulario</button>
+    <button data-go="gram">Gramática</button>
+    <button data-go="actualidad">Actualidad</button>
+    <button data-go="cultura">Cultura</button>
+    <button data-go="dele">DELE</button>
+  </nav>
+
+  <script src="app.js"></script>
+</body>
+</html>

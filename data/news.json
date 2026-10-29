@@ -1,0 +1,171 @@
+{
+  "semana": "Semana del 26 de octubre de 2026",
+  "actualizado": "2026-10-29",
+  "nota": "Resúmenes escritos a partir de las fuentes enlazadas. 'Cómo lo cuentan' describe tendencias habituales de cada sector de la prensa, no citas literales: compruébalo leyendo los enlaces.",
+  "historias": [
+    {
+      "id": "urda",
+      "seccion": "Sociedad",
+      "titular": "El choque de trenes de Urda, la peor tragedia ferroviaria en años",
+      "resumen": "Un AVE de Renfe y un tren de Iryo chocaron entre Los Yébenes y Urda (Toledo), en la línea Madrid-Andalucía. El balance asciende a 69 fallecidos y 53 heridos siguen hospitalizados; entre los afectados hay viajeros de siete nacionalidades. Según la información publicada, una avería técnica y una cadena de errores humanos habrían provocado el accidente: el centro de control de Adif indicó a los maquinistas que reanudaran la marcha con normalidad. Una comisión de investigación ya había alertado en 2024 del riesgo en esa línea. La jueza ha abierto diligencias, la Guardia Civil interroga al operario que autorizó la circulación y circulan SMS falsos que suplantan a la Guardia Civil. El accidente ha paralizado durante días la precampaña electoral.",
+      "vocab": [
+        {"es": "el balance", "en": "toll, final count"},
+        {"es": "ascender a", "en": "to amount to"},
+        {"es": "abrir diligencias", "en": "to open a judicial investigation"},
+        {"es": "suplantar", "en": "to impersonate"},
+        {"es": "reanudar", "en": "to resume"},
+        {"es": "el maquinista", "en": "train driver"}
+      ],
+      "como": "La prensa de derechas tiende a poner el foco en la gestión del Ministerio de Transportes y de Adif y en las advertencias previas no atendidas. La de izquierdas suele subrayar la cadena de fallos técnicos y humanos, el papel de los operadores y critica que se use la tragedia en campaña.",
+      "fuentes": [
+        {"nombre": "elDiario.es (directo 28 oct)", "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13620471.html"},
+        {"nombre": "EFE vía Infobae", "url": "https://www.infobae.com/espana/agencias/2026/10/27/temas-del-dia-de-efe-espana-del-miercoles-28-de-octubre-de-2026/"},
+        {"nombre": "Euronews", "url": "https://es.euronews.com/video/2026/10/28/ultimas-noticias-28-octubre-2026-tarde"}
+      ]
+    },
+    {
+      "id": "29n-encuestas",
+      "seccion": "Política",
+      "titular": "29N: las encuestas dan ventaja al PP, que dependería de Vox",
+      "resumen": "Pedro Sánchez adelantó las elecciones generales al 29 de noviembre. La media de doce encuestadoras (sin contar el CIS) sitúa al PP en torno al 32 %, al PSOE en el 26,4 % y a Vox en el 18,8 %: PP y Vox sumarían mayoría absoluta, pero ningún sondeo se la da al PP en solitario. El barómetro del CIS es la excepción y coloca al PSOE primero, con un 34 %. El BOE publicó esta semana las listas al Congreso y al Senado. En el Senado, PSOE y Frente Amplio concurren juntos en casi todo el país, mientras que Vox se retira en seis provincias y el PP en tres para concentrar el voto de la derecha.",
+      "vocab": [
+        {"es": "adelantar las elecciones", "en": "to call a snap election"},
+        {"es": "la encuestadora", "en": "polling firm"},
+        {"es": "en solitario", "en": "on its own"},
+        {"es": "concurrir", "en": "to run (in an election)"},
+        {"es": "la mayoría absoluta", "en": "absolute majority (176 seats)"},
+        {"es": "el barómetro", "en": "periodic opinion survey"}
+      ],
+      "como": "Medios de derechas (El Debate, Vozpópuli, El Español) destacan la mayoría de PP y Vox y cuestionan la fiabilidad del CIS. Medios de izquierdas subrayan que el PSOE 'gana terreno' y advierten de lo que supondría un Gobierno con Vox.",
+      "fuentes": [
+        {"nombre": "Infobae", "url": "https://www.infobae.com/espana/2026/10/27/asi-estan-las-encuestas-para-el-29-de-noviembre-pp-y-vox-mantienen-la-mayoria-absoluta-el-psoe-gana-terreno-y-la-izquierda-fragmentada-no-logra-remontar/"},
+        {"nombre": "El Debate", "url": "https://www.eldebate.com/espana/20261025/dicen-ultimas-encuestas-sobre-elecciones-generales-29-noviembre-cns_472138.html"},
+        {"nombre": "Vozpópuli", "url": "https://www.vozpopuli.com/espana/quien-ganara-las-elecciones-generales-del-29-n-esto-dicen-las-ultimas-encuestas-y-sondeos.html"}
+      ]
+    },
+    {
+      "id": "feijoo-programa",
+      "seccion": "Economía",
+      "titular": "Feijóo promete bajar el IRPF y construir un millón de viviendas",
+      "resumen": "En un acto en Vigo, Alberto Núñez Feijóo presentó las líneas económicas del PP para el 29N: rebajar el IRPF, eximir de tributar a los autónomos que facturen menos de 85.000 euros al año y construir un millón de viviendas en la legislatura. Defiende aumentar la oferta y facilitar la construcción frente al control de precios del alquiler que aplica el Gobierno. El PSOE, por su parte, ha planteado subir impuestos a quien posea tres o más viviendas. Vivienda, impuestos, salarios, energía y empresas son las cinco grandes batallas económicas de la campaña.",
+      "vocab": [
+        {"es": "eximir de", "en": "to exempt from"},
+        {"es": "tributar", "en": "to pay tax"},
+        {"es": "facturar", "en": "to invoice, have revenue of"},
+        {"es": "la legislatura", "en": "parliamentary term"},
+        {"es": "el control de precios", "en": "price controls"},
+        {"es": "la oferta", "en": "supply"}
+      ],
+      "como": "La prensa liberal y económica (Expansión, El Español, The Objective) presenta el plan como una apuesta por la oferta y la libertad económica frente a la intervención del mercado del alquiler. La de izquierdas (El País, elDiario.es) duda de que las cuentas cuadren con menos ingresos fiscales y defiende la regulación de precios y la vivienda pública.",
+      "fuentes": [
+        {"nombre": "Forbes España", "url": "https://forbes.es/actualidad/1036705/elecciones-2026-batallas-economicas-29-n/"},
+        {"nombre": "La 7 TV", "url": "https://www.la7tv.es/articulo/politica/feijoo-promete-vigo-bajar-impuestos-millon-viviendas/20261024202352074875.html"},
+        {"nombre": "ESdiario", "url": "https://www.esdiario.com/nacional/261005/199512/feijoo-vivienda-ases-29n-sanchez-busca-rescatar-decretos-tumbados-su-manera.html"}
+      ]
+    },
+    {
+      "id": "epa",
+      "seccion": "Economía",
+      "titular": "EPA: récord de ocupados, pero el paro vuelve a superar el 10 %",
+      "resumen": "Según la Encuesta de Población Activa del tercer trimestre, publicada por el INE el 27 de octubre, España suma 73.600 ocupados y alcanza un récord de 22,85 millones de trabajadores. A la vez, el paro sube en 95.900 personas, hasta 2,59 millones, y la tasa pasa del 9,87 % al 10,18 %: el mayor repunte de la década salvo 2020. El sector servicios concentra el empleo creado, Madrid pierde 49.200 ocupados en el trimestre y Andalucía sigue con la tasa de paro más alta (14,91 %). En un año hay 465.500 ocupados más.",
+      "vocab": [
+        {"es": "los ocupados", "en": "people in work"},
+        {"es": "la tasa de paro", "en": "unemployment rate"},
+        {"es": "el trimestre", "en": "quarter"},
+        {"es": "la población activa", "en": "labour force"},
+        {"es": "desestacionalizado", "en": "seasonally adjusted"}
+      ],
+      "como": "Es el ejemplo perfecto de la lectura sobre la prensa en Cultura. El Gobierno y medios afines destacan el récord de ocupados. La oposición y medios de derechas titulan con el repunte del paro y el dato de Madrid. Los sindicatos ponen el foco en la temporalidad y en el paro femenino (11,28 %).",
+      "fuentes": [
+        {"nombre": "Qué!", "url": "https://www.que.es/2026/10/28/epa-tercer-trimestre-2026-paro-2/"},
+        {"nombre": "USO (sindicato)", "url": "https://www.uso.es/la-epa-del-3o-trimestre-de-2026-suma-73-600-ocupados-pero-el-paro-sube-en-95-900/"}
+      ]
+    },
+    {
+      "id": "protestas",
+      "seccion": "Sociedad",
+      "titular": "Semana de protestas: tractores en Madrid y huelgas de médicos",
+      "resumen": "Unos 500 tractores llegaron a Madrid desde la plaza de Colón hasta el Ministerio de Agricultura, convocados por Asaja, COAG y Unión de Uniones, para exigir medidas frente al aumento de los costes de producción. Los médicos de Madrid encadenan tres días de huelga que repetirán en noviembre y diciembre, y Metges de Catalunya mantiene una huelga indefinida con manifestación en la Diagonal. CCOO prepara una huelga general en el sector público para el 11 de noviembre y los maquinistas de Renfe convocan paros por el bloqueo de los acuerdos de seguridad ferroviaria.",
+      "vocab": [
+        {"es": "la tractorada", "en": "farmers' tractor protest"},
+        {"es": "los costes de producción", "en": "production costs"},
+        {"es": "la huelga indefinida", "en": "open-ended strike"},
+        {"es": "encadenar", "en": "to string together"},
+        {"es": "el paro (laboral)", "en": "stoppage, walkout"}
+      ],
+      "como": "La prensa de derechas suele presentar las protestas del campo como un fracaso de la política agraria del Gobierno y de la regulación europea. La de izquierdas pone más el foco en las huelgas sanitarias y en la defensa de los servicios públicos frente a gobiernos autonómicos del PP.",
+      "fuentes": [
+        {"nombre": "EFE vía Infobae", "url": "https://www.infobae.com/espana/agencias/2026/10/27/temas-del-dia-de-efe-espana-del-miercoles-28-de-octubre-de-2026/"}
+      ]
+    },
+    {
+      "id": "ceuta-cni",
+      "seccion": "Política",
+      "titular": "Una jueza pide desclasificar los papeles del CNI sobre Ceuta",
+      "resumen": "La jueza de la Audiencia Nacional María Tardón ha dado quince días al Gobierno para desclasificar documentos del CNI sobre la entrada masiva de migrantes en Ceuta a finales de julio, y ha tomado declaración a varios policías y a tres ciudadanos marroquíes. El Gobierno ya reconoció que buques de Marruecos entraron sin permiso en aguas de Ceuta los días 30 y 31 de julio, algo que el rey calificó de 'violación de una frontera europea'.",
+      "vocab": [
+        {"es": "desclasificar", "en": "to declassify"},
+        {"es": "tomar declaración", "en": "to take a statement"},
+        {"es": "la Audiencia Nacional", "en": "Spain's national high court"},
+        {"es": "las aguas territoriales", "en": "territorial waters"}
+      ],
+      "como": "Medios de derechas piden explicaciones al Gobierno por su relación con Marruecos y la defensa de la frontera. Medios de izquierdas tienden a centrarse en la situación humanitaria de los migrantes y en la investigación judicial.",
+      "fuentes": [
+        {"nombre": "EFE vía Infobae", "url": "https://www.infobae.com/espana/agencias/2026/10/27/temas-del-dia-de-efe-espana-del-miercoles-28-de-octubre-de-2026/"}
+      ]
+    },
+    {
+      "id": "banca-bce",
+      "seccion": "Economía",
+      "titular": "BBVA gana un 13,6 % más y Lagarde adelanta su salida del BCE",
+      "resumen": "BBVA ganó 9.066 millones de euros hasta septiembre, un 13,6 % más, mientras que Banco Sabadell obtuvo 1.376 millones (un 1 % menos) y pagará un dividendo de 7 céntimos por acción. Christine Lagarde anunció que dejará la presidencia del Banco Central Europeo en febrero de 2027, antes de lo previsto, lo que abre la carrera por su sucesión.",
+      "vocab": [
+        {"es": "el beneficio", "en": "profit"},
+        {"es": "el dividendo", "en": "dividend"},
+        {"es": "la acción", "en": "share"},
+        {"es": "la sucesión", "en": "succession"}
+      ],
+      "como": "",
+      "fuentes": [
+        {"nombre": "EFE vía Infobae", "url": "https://www.infobae.com/espana/agencias/2026/10/27/temas-del-dia-de-efe-espana-del-miercoles-28-de-octubre-de-2026/"}
+      ]
+    },
+    {
+      "id": "musica",
+      "seccion": "Cultura pop",
+      "titular": "Rosalía arrasa en nominaciones y Bad Bunny en los Billboard latinos",
+      "resumen": "Rosalía encabeza las nominaciones de LOS40 Music Awards 2026 con seis candidaturas en la categoría nacional; la siguen Quevedo, Ana Mena y Lola Índigo con cinco, y Aitana con tres. La gala será el 20 de noviembre en el Palau Sant Jordi de Barcelona. En los Premios Billboard de la Música Latina, Bad Bunny se llevó siete galardones, entre ellos artista del año y mejor gira, y Rosalía también salió premiada. En las listas españolas siguen arriba 'Debí tirar más fotos' de Bad Bunny, 'Cuarto oscuro' de Aitana y 'Lux' de Rosalía, que además colabora en el nuevo disco de Fontaines D.C.",
+      "vocab": [
+        {"es": "arrasar", "en": "to sweep, dominate"},
+        {"es": "encabezar", "en": "to lead, top"},
+        {"es": "la candidatura", "en": "nomination"},
+        {"es": "el galardón", "en": "award"},
+        {"es": "la gira", "en": "tour"}
+      ],
+      "como": "",
+      "fuentes": [
+        {"nombre": "Vilapress", "url": "https://vilapress.cat/articulo/sant-esteve-sesrovires/2026-10-23/6062886-rosalia-encabeza-nominaciones-los40-music-awards-santander-2026"},
+        {"nombre": "Jenesaispop", "url": "https://jenesaispop.com/2026/10/23/532749/rosalia-billboard-latinos"},
+        {"nombre": "Infobae (listas)", "url": "https://infobae.com/espana/agencias/2026/10/26/los-irlandeses-fontaines-dc-consiguen-su-mejor-posicion-en-espana-con-dopamine-chamber"}
+      ]
+    },
+    {
+      "id": "pantallas",
+      "seccion": "Cultura pop",
+      "titular": "Qué ver: 'Grande de España', 'Colisión' y el regreso de 'Lupin'",
+      "resumen": "Netflix estrenó el 23 de octubre 'Grande de España', comedia dramática protagonizada por Antonio de la Torre, y la cuarta temporada de 'Lupin' con Omar Sy. El 30 de octubre llega 'Colisión', un thriller español con Laia Costa, Karra Elejalde y Luis Zahera. En la Seminci de Valladolid, la cineasta Valeria Sarmiento recibe la Espiga de Honor. Buena excusa para practicar la tarea de reseña del DELE.",
+      "vocab": [
+        {"es": "el estreno", "en": "premiere, release"},
+        {"es": "protagonizar", "en": "to star in"},
+        {"es": "la temporada", "en": "season"},
+        {"es": "el reparto", "en": "cast"},
+        {"es": "la cineasta", "en": "filmmaker"}
+      ],
+      "como": "",
+      "fuentes": [
+        {"nombre": "Espinof", "url": "https://www.espinof.com/listas/7-estrenos-imprescindibles-netflix-octubre-2026-nueva-pelicula-mayores-estrellas-cine-al-regreso-mejores-series-plataforma"},
+        {"nombre": "Digital Trends Español", "url": "https://es.digitaltrends.com/entretenimiento/netflix-octubre-2026/"}
+      ]
+    }
+  ]
+}

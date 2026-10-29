@@ -1,0 +1,71 @@
+[
+  {
+    "id": "horarios",
+    "titulo": "Comer a las tres y cenar a las diez",
+    "tema": "Costumbres",
+    "texto": [
+      "Quien llega a España suele sorprenderse de los horarios: se come entre las dos y las cuatro, y la cena rara vez empieza antes de las nueve. Una de las explicaciones más citadas es histórica: en 1940 el país adoptó la hora de Europa central, aunque geográficamente le correspondería la de Londres. Desde entonces, el reloj marca una hora más de lo que indica el sol.",
+      "A esto se suma la jornada partida, todavía habitual en muchos sectores: se trabaja por la mañana, se hace una pausa larga a mediodía y se vuelve por la tarde. El resultado son jornadas que se alargan hasta las siete u ocho, lo que retrasa todo lo demás.",
+      "Pero el horario no es solo una cuestión práctica. La sobremesa, ese rato de charla que se prolonga después de comer, forma parte de la vida social. Levantarse de la mesa nada más terminar el postre puede interpretarse como prisa o incluso descortesía.",
+      "En los últimos años han surgido iniciativas para racionalizar los horarios y conciliar mejor la vida laboral y familiar. Sin embargo, cambiar costumbres tan arraigadas no es cosa de un día."
+    ],
+    "glosario": [
+      {"termino": "jornada partida", "def": "Horario de trabajo dividido en mañana y tarde con una pausa larga para comer."},
+      {"termino": "sobremesa", "def": "Tiempo de conversación en la mesa después de comer."},
+      {"termino": "racionalizar", "def": "Organizar algo de forma más lógica y eficiente."},
+      {"termino": "conciliar", "def": "Hacer compatibles dos cosas, aquí el trabajo y la familia."},
+      {"termino": "arraigadas", "def": "Muy firmes y antiguas, difíciles de cambiar."}
+    ],
+    "preguntas": [
+      {"q": "¿Qué decisión de 1940 se menciona como causa del desfase horario?", "a": "Adoptar la hora de Europa central en lugar de la de Londres."},
+      {"q": "¿Por qué la jornada partida retrasa la cena?", "a": "Porque la pausa larga del mediodía alarga la jornada hasta las siete u ocho de la tarde."},
+      {"q": "Explica con tus palabras qué significa 'no es cosa de un día'.", "a": "Que es un cambio lento, que lleva tiempo."}
+    ]
+  },
+  {
+    "id": "dos-lenguas",
+    "titulo": "Barcelona entre dos lenguas",
+    "tema": "Sociedad",
+    "texto": [
+      "En Barcelona conviven el catalán y el castellano, ambas lenguas oficiales en Cataluña. En la calle es habitual escuchar conversaciones que saltan de una a otra, y muchos barceloneses cambian de idioma según su interlocutor sin pensarlo dos veces.",
+      "La escuela pública catalana funciona con el modelo de inmersión lingüística, en el que el catalán es la lengua vehicular de la enseñanza. El modelo tiene defensores que lo consideran clave para la cohesión social y detractores que reclaman más presencia del castellano en las aulas; la cuestión ha llegado varias veces a los tribunales.",
+      "Para quien vive en la ciudad, aprender algo de catalán suele ser bien recibido, aunque en el día a día el castellano basta para desenvolverse. Expresiones como 'bon dia', 'si us plau' o 'adéu' se cuelan incluso en conversaciones en castellano.",
+      "Más allá del debate político, la convivencia de dos lenguas enriquece el castellano que se habla en Cataluña, con giros y préstamos propios que a veces sorprenden a los visitantes del resto de España."
+    ],
+    "glosario": [
+      {"termino": "interlocutor", "def": "La persona con la que se habla."},
+      {"termino": "inmersión lingüística", "def": "Modelo educativo en el que se enseña principalmente en una lengua."},
+      {"termino": "lengua vehicular", "def": "La lengua en la que se imparten las clases."},
+      {"termino": "detractores", "def": "Personas que critican o se oponen a algo."},
+      {"termino": "desenvolverse", "def": "Arreglárselas, manejarse con soltura."},
+      {"termino": "se cuelan", "def": "Entran sin que nadie lo note."}
+    ],
+    "preguntas": [
+      {"q": "¿Qué es la lengua vehicular en la escuela pública catalana?", "a": "El catalán."},
+      {"q": "¿Qué argumentos se mencionan a favor y en contra de la inmersión?", "a": "A favor: la cohesión social. En contra: se pide más castellano en las aulas."},
+      {"q": "Usa 'desenvolverse' en una frase sobre tu trabajo.", "a": "Respuesta libre. Ej.: Me desenvuelvo bien en entrevistas en inglés y en castellano."}
+    ]
+  },
+  {
+    "id": "prensa",
+    "titulo": "Cómo leer la prensa española",
+    "tema": "Medios",
+    "texto": [
+      "La prensa española tiene líneas editoriales bastante reconocibles, y saber dónde se sitúa cada medio ayuda a leer entre líneas. El País, fundado en 1976, se considera de centroizquierda; El Mundo y ABC ocupan el centroderecha y la derecha, este último con una larga tradición monárquica.",
+      "En el ámbito digital, elDiario.es y Público se sitúan a la izquierda, mientras que El Español, The Objective y Libertad Digital lo hacen a la derecha, con un discurso liberal en lo económico. El Confidencial y la prensa económica, como Expansión o Cinco Días, ponen el foco en empresas, mercados e impuestos. En Cataluña, La Vanguardia es el diario de referencia.",
+      "Una misma noticia puede cambiar mucho según el titular. Un dato de empleo puede presentarse como 'récord de ocupados' o como 'el paro se dispara'; ambas lecturas pueden ser ciertas a la vez. Fijarse en el verbo del titular, en qué fuente se cita primero y en qué dato se destaca es un buen ejercicio de comprensión crítica.",
+      "Esta habilidad, además, es justo la que evalúa el DELE C1: identificar la intención del autor, el registro y las opiniones implícitas de un texto."
+    ],
+    "glosario": [
+      {"termino": "líneas editoriales", "def": "La orientación ideológica y los criterios de un medio."},
+      {"termino": "leer entre líneas", "def": "Entender lo que se sugiere sin decirse explícitamente."},
+      {"termino": "se dispara", "def": "Sube de forma rápida y llamativa."},
+      {"termino": "implícitas", "def": "Que no se dicen directamente, pero se entienden."}
+    ],
+    "preguntas": [
+      {"q": "¿Qué dos titulares opuestos se dan como ejemplo para un dato de empleo?", "a": "'Récord de ocupados' y 'el paro se dispara'."},
+      {"q": "¿En qué tres elementos conviene fijarse para detectar el enfoque?", "a": "El verbo del titular, la fuente citada primero y el dato destacado."},
+      {"q": "Abre la pestaña Actualidad y elige una noticia. ¿Qué verbo usarías tú en el titular?", "a": "Respuesta libre."}
+    ]
+  }
+]

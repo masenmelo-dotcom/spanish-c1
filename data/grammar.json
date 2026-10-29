@@ -1,0 +1,127 @@
+[
+  {
+    "id": "concesivas",
+    "titulo": "Concesivas: aunque, por mucho que, si bien",
+    "explicacion": [
+      "Con 'aunque', el indicativo presenta un hecho que el hablante da por cierto e informa de él: 'Aunque llueve, salgo'. El subjuntivo presenta algo hipotético o ya conocido por los dos, y le quita importancia: 'Aunque llueva, salgo' (llueva o no) / 'Aunque sea tu jefe, no tiene razón' (ya lo sabemos, da igual).",
+      "'Por mucho que', 'por más que' y 'por muy + adjetivo + que' suelen ir con subjuntivo. 'Si bien' (formal) y 'a pesar de que' con hecho real van con indicativo. 'Aun cuando' equivale a 'aunque' y sigue la misma lógica.",
+      "Para lo imposible o irreal se usa imperfecto o pluscuamperfecto de subjuntivo: 'Aunque me lo hubieras pedido, no habría podido'."
+    ],
+    "ejemplos": [
+      "Por mucho que insistas, no voy a cambiar de opinión.",
+      "Si bien el empleo ha crecido, el paro también ha repuntado.",
+      "Aunque el CIS dé ventaja al PSOE, el resto de encuestas dice lo contrario."
+    ],
+    "ejercicios": [
+      {"frase": "Por más que lo ___ (intentar, yo), no consigo pronunciar bien 'Urquinaona'.", "respuestas": ["intente"], "explicacion": "'Por más que' + subjuntivo."},
+      {"frase": "Si bien la empresa ___ (ganar) más este año, los sueldos siguen congelados.", "respuestas": ["ha ganado", "gana", "ganó"], "explicacion": "'Si bien' presenta un hecho real: indicativo."},
+      {"frase": "Aunque me lo ___ (jurar, tú) ayer, no te habría creído.", "respuestas": ["hubieras jurado", "hubieses jurado"], "explicacion": "Hipótesis irreal en el pasado: pluscuamperfecto de subjuntivo."},
+      {"frase": "Por muy experto que ___ (ser) el candidato, tiene que pasar la entrevista.", "respuestas": ["sea"], "explicacion": "'Por muy + adjetivo + que' + subjuntivo."},
+      {"frase": "Ya sé que es tarde, pero aunque ___ (ser) tarde, te llamo.", "respuestas": ["sea"], "explicacion": "Hecho conocido por ambos al que se le resta importancia: subjuntivo."}
+    ]
+  },
+  {
+    "id": "condicionales",
+    "titulo": "Condicionales más allá de 'si'",
+    "explicacion": [
+      "C1 exige variar los conectores condicionales. 'Como' + subjuntivo al inicio expresa amenaza o advertencia: 'Como llegues tarde, me voy'.",
+      "'De' + infinitivo es culto y sustituye a 'si': 'De haberlo sabido, no habría venido'. 'A no ser que', 'salvo que' y 'a menos que' (excepción) van con subjuntivo; también 'siempre que', 'siempre y cuando' y 'con tal de que' (condición mínima).",
+      "Las mixtas combinan tiempos: condición pasada con consecuencia presente: 'Si hubiera estudiado Derecho, ahora sería abogado'."
+    ],
+    "ejemplos": [
+      "Como vuelvas a hacer eso, se lo cuento a tu madre.",
+      "De ganar el PP, necesitaría el apoyo de Vox.",
+      "Te lo dejo siempre y cuando me lo devuelvas el lunes."
+    ],
+    "ejercicios": [
+      {"frase": "Como no ___ (llamar, tú) antes de las ocho, no te espero.", "respuestas": ["llames"], "explicacion": "'Como' condicional + presente de subjuntivo."},
+      {"frase": "De ___ (saber) lo del accidente, habríamos cogido otro tren.", "respuestas": ["haber sabido"], "explicacion": "'De' + infinitivo compuesto para el pasado."},
+      {"frase": "Iré a la cena a no ser que ___ (surgir) algo en el trabajo.", "respuestas": ["surja"], "explicacion": "'A no ser que' + subjuntivo."},
+      {"frase": "Si ___ (aprender, yo) catalán de pequeño, ahora lo hablaría perfectamente.", "respuestas": ["hubiera aprendido", "hubiese aprendido"], "explicacion": "Mixta: pasado irreal con consecuencia presente."},
+      {"frase": "Puedes usar mi coche con tal de que le ___ (echar) gasolina.", "respuestas": ["eches"], "explicacion": "'Con tal de que' + subjuntivo."}
+    ]
+  },
+  {
+    "id": "perifrasis",
+    "titulo": "Perífrasis verbales",
+    "explicacion": [
+      "Las perífrasis matizan la acción y dan naturalidad. De duración: 'llevar + gerundio' (llevo tres años viviendo aquí), 'andar + gerundio' (con matiz de repetición o crítica: anda diciendo que...).",
+      "De fase: 'ponerse a', 'echarse a' (llorar, reír, correr: inicio brusco), 'dejar de', 'volver a', 'acabar + gerundio' o 'acabar por + infinitivo' (al final).",
+      "Otras: 'venir a + infinitivo' (aproximación: viene a costar mil euros), 'tener + participio' (resultado acumulado: tengo leídas veinte páginas), 'llegar a + infinitivo' (punto extremo: llegó a amenazarle)."
+    ],
+    "ejemplos": [
+      "Llevo media hora esperando el metro.",
+      "Al ver la noticia, se echó a llorar.",
+      "Acabé aceptando la oferta, aunque al principio no me convencía."
+    ],
+    "ejercicios": [
+      {"frase": "___ dos años estudiando para el DELE. (llevar, yo)", "respuestas": ["llevo"], "explicacion": "'Llevar + tiempo + gerundio'."},
+      {"frase": "Cuando oyó el chiste, se ___ a reír. (echar, él, pretérito)", "respuestas": ["echó"], "explicacion": "'Echarse a' + infinitivo: comienzo repentino."},
+      {"frase": "El piso viene a ___ unos 1.200 euros al mes. (costar)", "respuestas": ["costar"], "explicacion": "'Venir a + infinitivo': aproximación."},
+      {"frase": "Ya tengo ___ la mitad de los informes. (corregir)", "respuestas": ["corregidos"], "explicacion": "'Tener + participio' concuerda con el objeto."},
+      {"frase": "Anda ___ por ahí que lo van a ascender. (decir)", "respuestas": ["diciendo"], "explicacion": "'Andar + gerundio' con matiz crítico."}
+    ]
+  },
+  {
+    "id": "estilo-indirecto",
+    "titulo": "Estilo indirecto",
+    "explicacion": [
+      "Al transmitir palabras con un verbo en pasado ('dijo que'), los tiempos retroceden: presente → imperfecto, pretérito perfecto/indefinido → pluscuamperfecto, futuro → condicional, presente de subjuntivo → imperfecto de subjuntivo.",
+      "Si lo dicho sigue vigente, se puede mantener el presente: 'Dijo que el examen es en mayo'.",
+      "Cambian también los deícticos: hoy → aquel día, mañana → al día siguiente, aquí → allí, este → aquel. Las órdenes pasan a 'que' + subjuntivo: 'Ven' → 'Me dijo que fuera'."
+    ],
+    "ejemplos": [
+      "'Construiremos un millón de viviendas' → Feijóo prometió que construirían un millón de viviendas.",
+      "'Llámame mañana' → Me pidió que lo llamara al día siguiente."
+    ],
+    "ejercicios": [
+      {"frase": "'Voy a dimitir.' → Anunció que ___ a dimitir.", "respuestas": ["iba"], "explicacion": "Presente → imperfecto."},
+      {"frase": "'Hemos ganado.' → Dijeron que ___ ganado.", "respuestas": ["habían"], "explicacion": "Pretérito perfecto → pluscuamperfecto."},
+      {"frase": "'Revisa el contrato.' → Me pidió que ___ el contrato.", "respuestas": ["revisara", "revisase"], "explicacion": "Imperativo → imperfecto de subjuntivo."},
+      {"frase": "'Lo haré mañana.' → Dijo que lo haría ___.", "respuestas": ["al día siguiente"], "explicacion": "Mañana → al día siguiente."},
+      {"frase": "'Espero que vengas.' → Me dijo que esperaba que ___.", "respuestas": ["fuera", "fuese"], "explicacion": "Presente de subjuntivo → imperfecto. 'Venir' cambia a 'ir' por el cambio de lugar."}
+    ]
+  },
+  {
+    "id": "usos-de-se",
+    "titulo": "Usos de 'se': impersonal, pasiva refleja y accidental",
+    "explicacion": [
+      "Pasiva refleja: el verbo concuerda con el sujeto paciente: 'Se venden pisos', 'Se publicaron las listas'.",
+      "Impersonal: no hay sujeto; el verbo va en singular. Con personas precedidas de 'a': 'Se detuvo a tres jóvenes' (no 'se detuvieron a'). Con verbos intransitivos: 'Aquí se vive bien'.",
+      "'Se' accidental o de involuntariedad: 'se me olvidó', 'se le cayó el móvil', 'se nos rompió'. Quita responsabilidad al hablante; el objeto es el sujeto gramatical."
+    ],
+    "ejemplos": [
+      "Se buscan comerciales con ocho años de experiencia.",
+      "Se entrevistó a los testigos durante la mañana.",
+      "Se me ha pasado la parada."
+    ],
+    "ejercicios": [
+      {"frase": "Ayer se ___ las listas en el BOE. (publicar)", "respuestas": ["publicaron"], "explicacion": "Pasiva refleja: concuerda con 'las listas'."},
+      {"frase": "Se ___ a varios policías como testigos. (citar, pretérito)", "respuestas": ["citó"], "explicacion": "Impersonal con 'a' + personas: singular."},
+      {"frase": "Perdona, se ___ olvidó tu cumpleaños. (yo)", "respuestas": ["me"], "explicacion": "'Se' accidental + pronombre de la persona afectada."},
+      {"frase": "En este barrio se ___ muy bien. (comer)", "respuestas": ["come"], "explicacion": "Impersonal con verbo sin objeto: singular."},
+      {"frase": "Se ___ las llaves en el metro. (perder, a ella, pretérito)", "respuestas": ["le perdieron"], "explicacion": "'Se' accidental: 'se le perdieron' concuerda con 'las llaves'."}
+    ]
+  },
+  {
+    "id": "relativos",
+    "titulo": "Relativos cultos: el cual, cuyo, quien",
+    "explicacion": [
+      "Tras preposición, 'el/la cual' y 'el/la que' son intercambiables, pero 'el cual' es más formal y preferido tras preposiciones largas: 'la empresa para la cual trabajo', 'el motivo por el cual'.",
+      "'Lo cual' / 'lo que' retoman una oración entera: 'Llegó tarde, lo cual me molestó'.",
+      "'Cuyo' es posesivo y concuerda con lo poseído, no con el poseedor: 'el candidato cuyas referencias revisé'. 'Quien' se refiere solo a personas y es habitual tras preposición o en explicativas."
+    ],
+    "ejemplos": [
+      "Es una decisión en virtud de la cual se suspende el servicio.",
+      "La jueza, quien ya ha tomado declaración a varios agentes, dio quince días al Gobierno.",
+      "Es un país cuya historia conozco poco."
+    ],
+    "ejercicios": [
+      {"frase": "Te presento a la candidata ___ perfil te comenté. (posesivo)", "respuestas": ["cuyo"], "explicacion": "'Cuyo' concuerda con 'perfil' (masculino singular)."},
+      {"frase": "Suspendió el examen, lo ___ nadie esperaba.", "respuestas": ["cual", "que"], "explicacion": "Retoma toda la oración anterior."},
+      {"frase": "Esa es la razón por la ___ dimitió.", "respuestas": ["cual", "que"], "explicacion": "Preposición + artículo + cual/que."},
+      {"frase": "Son medidas ___ objetivos no están claros. (posesivo)", "respuestas": ["cuyos"], "explicacion": "Concuerda con 'objetivos'."},
+      {"frase": "El director, con ___ hablé ayer, me ha llamado.", "respuestas": ["quien", "el que", "el cual"], "explicacion": "Persona tras preposición."}
+    ]
+  }
+]
